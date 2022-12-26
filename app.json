@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "linku-app",
+    "slug": "linku-app",
+    "version": "1.0.2",
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "config": {}
+    }
+  },
+  "name": "linku-app"
+}
