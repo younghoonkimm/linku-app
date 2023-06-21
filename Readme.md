@@ -3,42 +3,23 @@
 
 링쿠는 **모바일에 저장해두고 싶은 웹 링크**를 모으고 관리하기 가장 쉬운 앱이에요!
 
-### 🙆
-이런 분들이 쓰시면 아주 좋을거에요!
+프로덕트에 대한 자세한 설명
+당신(U)의 모든 링크를 모으고 관리해보세요.
+링쿠(LinkU)는 평소 저장해두고 싶은 링크를
+한 곳에 모으고, 분류하고, 열어볼 수 있는 앱이에요.
 
-![illust-01.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/85d32399-cd16-4cf9-86b9-713d83bc95ff/illust-01.jpg)
 
-🗂️
-***평소에 모바일 웹을 이용하면서
-기사나 정보글을 많이 수집하시는 분***
+🙋이런 분들을 위해 만들었어요!
+• 평소 모바일 웹으로 서치를 많이 하시는 분
+• 나에게 보내는 채팅창으로 링크를 복사 붙여넣기하고 종종 잊으시는 분
+• 나중에 보려고 브라우저 창을 쌓아두시는 분
+• 콘텐츠의 성격마다 링크를 분류하고 싶으신 분
 
-![illust-02.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/942019f2-b95e-49d6-84ca-ab5457a93b6f/illust-02.jpg)
 
-💬
-***내게 쓰는 채팅앱에 링크를 복붙하시는 분
-(각종 메모와 이미지와 섞여있는 링크들)***
+👍이렇게 사용해보세요!
+• 모으고 싶은 링크를 복사&붙여넣고 타이틀을 지정해보세요.
+• 링크에 담긴 정보의 특성에 맞게 카테고리로 분류할 수 있어요.
+• 등록된 링크들을 선택하면 쉽고 빠르게 웹브라우저로 이동할 수 있어요.
 
-![illust-03.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7b7b9fb7-81fc-4db6-bf56-401570b2945d/illust-03.jpg)
 
-🌐
-***브라우저 북마크가 쌓여 있으신 분
-혹은 브라우저 북마크가 쌓이는 게 불편한 분***
-
-### 🤩
-이렇게 간단하게 사용할 수 있어요!
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e9a80e67-4890-46c4-b732-ddf859e67019/Untitled.png)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/023a511a-66db-4f59-9a1e-2ac7aef3f546/Untitled.png)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/74a14f5a-8bac-4f8c-a875-c5d835021b39/Untitled.png)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a92c88e1-2d5a-48cd-a6d7-31be54a89fcd/Untitled.png)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f3631b7c-652f-4db9-83c9-e57c7aa5f0dd/Untitled.png)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6f3d4a20-ae5b-4fea-b9f0-1a48c315f637/Untitled.png)
-
-### 👂
-저희는 언제든지 링쿠(LinkU) 유저들의 의견을 들을 준비가 되어있어요!
-사용하시면서 불편하거나, 좋거나, 혹은 더 추가되었으면 하는 기능이 있다면 문의주세요:)
+이제 링쿠(LinkU)에서 쉽게 링크를 모으고 관리해보세요!
