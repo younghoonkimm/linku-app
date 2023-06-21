@@ -140,17 +140,12 @@ function SearchTemplate({ navigate, params: { params } }: any) {
                 >
                   <StyledItemView>
                     <StyledTitle numberOfLines={1}>
-                      {item.title?.split(searchData).map((text, i) =>
-                        i > 0 ? (
+                      {item.title?.split(searchData).map((text, i) =>(
                           <React.Fragment key={text + item._id + i}>
-                            <StyledHighlight>{searchData}</StyledHighlight>
+                            {i > 0 ? </StyledSearchLinkList><StyledHighlight>{searchData}</StyledHighlight> : null}
                             {text}
                           </React.Fragment>
-                        ) : (
-                          <React.Fragment key={text + item._id + i}>
-                            {text}
-                          </React.Fragment>
-                        )
+                       )
                       )}
                     </StyledTitle>
                     {findCategoryName(item, categories) ? (
